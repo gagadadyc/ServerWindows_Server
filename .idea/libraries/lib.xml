@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/gson-2.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/moshi-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/tomcat-servlet-api-7.0.62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/converter-moshi-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/msgpack-core-0.8.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/okio-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/influxdb-java-2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/logging-interceptor-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/okhttp-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/ServerWindows_Server/WEB-INF/lib/retrofit-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
