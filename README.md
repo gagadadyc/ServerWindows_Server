@@ -24,7 +24,7 @@ ServerWindows是一个监控平台，由三个模块组成，本项目为其中�
 
 下图是本项目的架构
 ![项目架构](http://images-1252121815.cosgz.myqcloud.com/blog/ServerWindows/TIM%E6%88%AA%E5%9B%BE20180812084750.png)
-本项目未使用任何框架，采用influxdb-java（的官方驱动），将数据获取后，经Service中的逻辑处理，最后通过Servlet将数据发送给Andeoid端。
+本项目未使用任何框架，采用influxdb-java（InfluxDB的官方java驱动），将数据获取后，经Service中的逻辑处理，最后通过Servlet将数据发送给Andeoid端。
 
 
 
